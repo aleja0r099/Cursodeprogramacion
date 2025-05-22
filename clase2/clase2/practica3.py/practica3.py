@@ -1,0 +1,5 @@
+apellido=input("Introduce tu apellido: ").title()
+nombre=input("Introduce tu nombre: ").title()
+cargo=input("Introduce tu cargo: ").title()
+print(f" {cargo} : {nombre} {apellido}")
+input()
